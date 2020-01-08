@@ -21,7 +21,7 @@ The live league rank script helps FPL managers by
 
 The Team Analyzer script helps FPL mangagers by 
 
-### Helpul Tips
+# Helpul Tips
 
 Users are required to know their **unique fpl entry id** to use this project. The id can be retreived on the fpl site by clicking "my team", "view gameweek history", and looking at the url.
 Example: https://fantasy.premierleague.com/entry/{team-id}/history
