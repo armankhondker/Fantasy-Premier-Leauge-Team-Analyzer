@@ -26,7 +26,7 @@ The Team Analyzer script helps FPL mangagers by
 Users are required to know their **unique fpl entry id** to use this project. The id can be retreived on the fpl site by clicking "my team", "view gameweek history", and looking at the url.
 Example: https://fantasy.premierleague.com/entry/{team-id}/history
 
-These assume you have Python3 and the requests package installed. Users can install this package by running: 
+These scripts assume you have Python 3 and the requests package installed. Users can install this package by running:
 ```pip install requests```
 
 
