@@ -1,7 +1,7 @@
 # Fantasy Premier Leauge Team Analyzer
 
 A collection of tools to help FPL Managers rise to the top of the FPL ranks! Created and developed with Python!
-Join over 7,000,000 managers playing FPL at: https://www.fantasy.premierleauge.com 
+Join over 7,000,000 managers playing the #1 fantasy sports game in the world at: https://www.fantasy.premierleauge.com 
 
 These FPL python script provides FPL managers with a command line interface to seamlessly:
 1. Check their gameweek scores and league ranks
@@ -20,4 +20,13 @@ The live league rank script helps FPL managers by
 ## Team Analyzer
 
 The Team Analyzer script helps FPL mangagers by 
+
+# Helpul Tips
+
+Users are required to know their **unique fpl entry id** to use this project. The id can be retreived on the fpl site by clicking "my team", "view gameweek history", and looking at the url.
+Example: https://fantasy.premierleague.com/entry/{team-id}/history
+
+These scripts assume you have Python 3 and the requests package installed. Users can install this package by running:
+```pip install requests``` on MacOS
+
 
