@@ -21,6 +21,11 @@ The Live League Rank script helps FPL managers by providing real time league pos
 
 The Team Analyzer script helps FPL mangagers by allowing them to plan for future gameweeks. Furthermore, the team analyzer script will display the current gameweek team selections, transfers made, free transfers reamining, team value, and chips available. 
 
+## Technolgies Used
+
+* Python
+* Fantasy Premier League Official API 
+
 # Helpul Tips
 
 Users are required to know their **unique fpl entry id** to use this project. The id can be retreived on the fpl site by clicking "my team", "view gameweek history", and looking at the url.
