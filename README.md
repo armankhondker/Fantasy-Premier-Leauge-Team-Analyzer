@@ -1,3 +1,5 @@
+![build-passing](https://img.shields.io/badge/build-passing-brightgreen) ![test-passing](https://img.shields.io/badge/test-passing-brightgreen)
+
 # Fantasy Premier Leauge Team Analyzer and Visualizer
 
 A collection of tools for [/r/FantasyPL](https://www.reddit.com/r/FantasyPL/) to help FPL Managers rise to the top of the FPL ranks! Created and developed with Python!
