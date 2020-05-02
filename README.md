@@ -1,6 +1,6 @@
-# Fantasy Premier Leauge Team Analyzer
+# Fantasy Premier Leauge Team Analyzer and Visualizer
 
-A collection of tools to help FPL Managers rise to the top of the FPL ranks! Created and developed with Python!
+A collection of tools for [/r/FantasyPL](www.reddit.com/r/FantasyPL) to help FPL Managers rise to the top of the FPL ranks! Created and developed with Python!
 Join over 7,000,000 managers playing the #1 fantasy sports game in the world at: https://www.fantasy.premierleauge.com 
 
 These FPL python script provides FPL managers with a command line interface to seamlessly:
